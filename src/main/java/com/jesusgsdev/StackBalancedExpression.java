@@ -4,8 +4,8 @@ import java.util.*;
 
 public class StackBalancedExpression {
 
-    public static final String OPENING_SYMBOLS = "({[";
-    public static final String CLOSING_SYMBOLS = ")}]";
+    private static final String OPENING_SYMBOLS = "({[";
+    private static final String CLOSING_SYMBOLS = ")}]";
 
     public static final String YES = "YES";
     public static final String NO = "NO";
