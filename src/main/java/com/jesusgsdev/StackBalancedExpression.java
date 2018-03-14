@@ -2,9 +2,6 @@ package com.jesusgsdev;
 
 import java.util.*;
 
-/**
- * Created by jesgarsal on 22/03/17.
- */
 public class StackBalancedExpression {
 
     public static final String OPENING_SYMBOLS = "({[";

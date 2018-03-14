@@ -7,9 +7,6 @@ import static com.jesusgsdev.StackBalancedExpression.YES;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.*;
 
-/**
- * Created by jesgarsal on 22/03/17.
- */
 public class StackBalancedExpressionTest {
 
     @Test
